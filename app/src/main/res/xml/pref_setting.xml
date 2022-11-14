@@ -1,0 +1,41 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <Preference
+        android:icon="@drawable/ic_account_circle"
+        android:key="UserProfile"
+        android:title="@string/User_profile"/>
+
+    <Preference
+        android:icon="@drawable/ic_apps"
+        android:key="appVersion"
+        android:summary="1.0"
+        android:title="@string/app_version"/>
+
+    <ListPreference
+        android:defaultValue="180"
+        android:entries="@array/Language_array_entries"
+        android:entryValues="@array/Language_array_values"
+        android:icon="@drawable/ic_language"
+        android:key="changeLanguagePref"
+        android:summary="English"
+        android:title="@string/pref_language" />
+
+
+    <Preference
+        android:icon="@drawable/ic_contactus"
+        android:key="contactus"
+        android:title="@string/setting_about_us"/>
+
+    <Preference
+        android:icon="@drawable/ic_history"
+        android:key="History"
+        android:title="@string/History"/>
+
+
+    <Preference
+        android:icon="@drawable/logout"
+        android:key="logout"
+        android:title="@string/pref_logout"/>
+
+</PreferenceScreen>

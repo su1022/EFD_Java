@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="8dp"
+        app:cardBackgroundColor="@color/colorloginbackground"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/imgBtnMale"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/bg_unchecked_background"
+                    android:src="@drawable/ic_boy" />
+
+                <ImageButton
+                    android:id="@+id/imgBtnFemale"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginLeft="10dp"
+                    android:background="@drawable/bg_unchecked_background"
+                    android:src="@drawable/ic_girl" />
+
+            </LinearLayout>
+
+            <EditText
+                android:layout_marginTop="15dp"
+                android:id="@+id/editname"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@android:drawable/editbox_background_normal"
+                android:hint="@string/RegisterName"
+                android:maxLength="20"
+                android:singleLine="true" />
+
+            <EditText
+                android:layout_marginTop="15dp"
+                android:id="@+id/editUsername"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@android:drawable/editbox_background_normal"
+                android:hint="@string/RegisterUserName"
+                android:maxLength="20"
+                android:singleLine="true" />
+
+            <EditText
+                android:id="@+id/editPassword"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_marginTop="15dp"
+                android:background="@android:drawable/editbox_background_normal"
+                android:hint="@string/RegisterPassword"
+                android:inputType="textPassword"
+                android:maxLength="20"
+                android:singleLine="true" />
+
+
+
+            <Button
+                android:id="@+id/btnAddUserSave"
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/bg_image_view"
+                android:text="@string/RegisterSave"
+                android:textColor="@color/colorWhite"/>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">အစားအစာမွတ္တမ္း</string>
+    <string name="app_version">ဗားရွင္း</string>
+
+    <string name="lang_eng">အဂၤလိပ္</string>
+    <string name="lang_myan">ျမန္မာ(ေဇာ္ဂ်ီ)</string>
+    <string name="lang_uni">ျမန္မာ(ယူနီကုဒ္)</string>
+
+    <string name="pref_language">ဘာသာစကား</string>
+    <string name="User_profile">အသံုးျပဳသူအခ်က္အလက္</string>
+    <string name="History">မွတ္တမ္း</string>
+
+    <string name="setting_rating">ႏႈန္း</string>
+    <string name="setting_about_us">ဆက္သြယ္ရန္</string>
+    <string name="our_bank_account">ဘဏ္အေကာင့္</string>
+    <string name="pref_logout">ထြက္ရန္</string>
+
+    <string name="editLoginName">နာမည္႐ိုက္ထည့္ပါ</string>
+    <string name="editLoginPassword">စကားဝွက္</string>
+    <string name="btnregister">အေကာင့္သစ္ဖြင့္ပါ</string>
+    <string name="btnLogin">ဝင္မည္</string>
+    <string name="tvDaily_Calories_Calculation">ေန႔စဥ္ ကယ္လိုရီတြက္ခ်က္မႈ မွတ္တမ္း</string>
+    <string name="Food_Categories">အစားအေသာက္အမ်ိဳးအစား</string>
+    <string name="BMI_Calculation">ခႏၲာကိုယ္အေလးခ်ိန္တြက္ခ်က္မႈ</string>
+    <string name="Report">မွတ္တမ္း</string>
+    <string name="Setting">အျပင္အဆင္</string>
+    <string name="Calculate">တြက္ခ်က္ပါ</string>
+    <string name="Total">စုစုေပါင္း :</string>
+    <string name="Your_Selected_Calories_is">ေရြးခ်ယ္ထားေသာ ကယ္လိုရီ :</string>
+
+    <string name="RegisterName">နာမည္႐ိုက္ထည့္ပါ</string>
+    <string name="RegisterUserName">နာမည္</string>
+    <string name="RegisterPassword">စကားဝွက္</string>
+    <string name="RegisterSave">သိမ္းမည္</string>
+
+    <string name="FruitDiary">အသီးအႏွံမ်ား</string>
+    <string name="SnackDiary">အစာေျပအစားအစာ</string>
+    <string name="CurryDiary">ဟင္း မ်ဳိးစံု</string>
+    <string name="SoupDiary">စြပ္ျပဳတ္</string>
+    <string name="DrinkDiary">ေဖ်ာ္ရည္</string>
+
+    <string name="BmiWeight">အေလးခ်ိန္</string>
+    <string name="BmiHeight">အရပ္</string>
+    <string name="BmiCalculate">တြက္မည္</string>
+    <string name="BmiHistory">အေလးခ်ိန္မွတ္တမ္း</string>
+    <string name="BmiResult">သင့္ရဲ႕အေလးခ်ိန္ ရလဒ္:</string>
+    <string name="BmiStatus">သင့္ရဲ႕အေလးခ်ိန္ အေျခအေန:</string>
+
+    <string name="CalorieCancel">မလုပ္ပါ</string>
+    <string name="CalorieAdd">ထည့္ပါ</string>
+
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">အအစားအစာမှတ်တမ်း</string>
+    <string name="app_version">ဗားရှင်း</string>
+
+    <string name="lang_eng">အင်္ဂလိပ်</string>
+    <string name="lang_myan">မြန်မာ(ဇော်ဂျီ)</string>
+    <string name="lang_uni">မြန်မာ(ယူနီကုဒ်)</string>
+
+    <string name="pref_language">ဘာသာစကား</string>
+
+    <string name="setting_rating">နှုန်း</string>
+    <string name="setting_about_us">ဆက်သွယ်ရန်</string>
+    <string name="our_bank_account">ဘဏ်အကောင့်</string>
+    <string name="pref_logout">ထွက်ရန်</string>
+    <string name="User_profile">အသုံးပြုသူအချက်အလက်</string>
+    <string name="editLoginName">နာမည်ရိုက်ထည့်ပါ</string>
+    <string name="History">မှတ်တမ်း</string>
+
+    <string name="editLoginPassword">စကားဝှကျ</string>
+    <string name="btnregister">အကောင့်သစ်ဖွင့်ပါ</string>
+    <string name="btnLogin">ဝင်မည်</string>
+    <string name="tvDaily_Calories_Calculation">နေ့စဉ် ကယ်လိုရီတွက်ချက်မှု မှတ်တမ်း</string>
+    <string name="Food_Categories">အစားအသောက်အမျိုးအစား</string>
+    <string name="BMI_Calculation">ခန္တာကိုယ်အလေးချိန်တွက်ချက်မှု</string>
+    <string name="Report">မှတ်တမ်း</string>
+    <string name="Setting">အပြင်အဆင်</string>
+    <string name="Calculate">တွက်ချက်ပါ</string>
+    <string name="Total">စုစုပေါင်း :</string>
+    <string name="Your_Selected_Calories_is">ရွေးချယ်ထားသော ကယ်လိုရီ :</string>
+
+
+
+
+    <string name="RegisterName">နာမည်ရိုက်ထည့်ပါ</string>
+    <string name="RegisterUserName">နာမည်</string>
+    <string name="RegisterPassword">စကားဝှက်</string>
+    <string name="RegisterSave">သိမ်းမည်</string>
+
+    <string name="FruitDiary">အသီးအနှံများ</string>
+    <string name="SnackDiary">အစာပြေ အစားအစာ</string>
+    <string name="CurryDiary">ဟင်း မျိုးစုံ</string>
+    <string name="SoupDiary">စွပ်ပြုတ်</string>
+    <string name="DrinkDiary">ဖျော်ရည်</string>
+
+    <string name="BmiWeight">အလေးချိန် </string>
+    <string name="BmiHeight">အရပ် </string>
+    <string name="BmiCalculate"> တွက်မည်</string>
+    <string name="BmiHistory">အလေးချိန်မှတ်တမ်း </string>
+    <string name="BmiResult">သင့်ရဲ့အလေးချိန် ရလဒ်:</string>
+    <string name="BmiStatus">သင့်ရဲ့အလေးချိန် အခြေအနေ:</string>
+
+    <string name="CalorieCancel">မလုပ်ပါ</string>
+    <string name="CalorieAdd">ထည့်ပါ</string>
+
+</resources>

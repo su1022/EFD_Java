@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    app:cardCornerRadius="15dp"
+    app:cardUseCompatPadding="true"
+    app:cardElevation="8dp"
+    tools:context=".Activity.ContactUsActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/colorBlue"
+        android:padding="10dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bits Manager Co.,Ltd"
+        android:gravity="center"
+        android:textSize="25dp"
+        />
+
+        <TextView
+            android:paddingTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="(IT Solutions Development)"
+            android:gravity="center"
+            android:textSize="17dp"
+            />
+
+        <TextView
+            android:paddingTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="No.(A.15)S,77 Street,31*32,MDY"
+            android:gravity="center"
+            android:textSize="17dp"
+            />
+
+        <TextView
+            android:paddingTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="www.myanmarsmarthome.com"
+            android:gravity="center"
+            android:textSize="17dp"
+            />
+        <TextView
+            android:paddingTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="http://www.facebook.com/bitsmanager"
+            android:gravity="center"
+            android:textSize="17dp"
+            />
+
+        <TextView
+            android:paddingTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="09444200295 , 09790798567"
+            android:gravity="center"
+            android:textSize="18dp"
+            />
+
+
+    </LinearLayout>
+</android.support.v7.widget.CardView>

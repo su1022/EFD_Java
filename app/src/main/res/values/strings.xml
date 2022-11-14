@@ -1,0 +1,60 @@
+<resources>
+    <!--<string name="hello_world">Hello world!</string>-->
+    <string name="app_name">Easy Food Diary</string>
+    <!--<string name="action_settings">Settings</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>-->
+    <string-array name="height_arrays">
+        <item>Feet/Inches</item>
+        <item>Cms</item>
+    </string-array>
+    <string name="app_version">App Version </string>
+
+    <string name="lang_eng">English</string>
+    <string name="lang_myan">Myanmar(Zawgyi)</string>
+    <string name="lang_uni">Myanmar(Unicode)</string>
+
+    <string name="pref_language">Language</string>
+    <string name="User_profile">User profile</string>
+    <string name="History">History</string>
+    <string name="setting_rating">Rate</string>
+    <string name="setting_about_us">Contact Us</string>
+    <string name="our_bank_account">Our Bank Accounts</string>
+    <string name="pref_logout">Logout</string>
+
+    <string name="editLoginName">Enter Your Name</string>
+    <string name="editLoginPassword">Enter Your Password</string>
+    <string name="btnregister">Register</string>
+    <string name="btnLogin">Login</string>
+    <string name="tvDaily_Calories_Calculation">Daily Calories Calculation</string>
+    <string name="Food_Categories">Food Categories</string>
+    <string name="BMI_Calculation">BMI Calculation</string>
+    <string name="Report">Report</string>
+    <string name="Setting">Setting</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Total">Total : </string>
+    <string name="Your_Selected_Calories_is">Your Selected Calories is :</string>
+
+
+    <string name="RegisterName">Enter Your Name</string>
+    <string name="RegisterUserName">Username</string>
+    <string name="RegisterPassword">Password</string>
+    <string name="RegisterSave">Save</string>
+
+    <string name="FruitDiary">Fruits</string>
+    <string name="SnackDiary">Snack</string>
+    <string name="CurryDiary">Curry</string>
+    <string name="SoupDiary">Soup</string>
+    <string name="DrinkDiary">Drink</string>
+
+    <string name="BmiWeight">Weight</string>
+    <string name="BmiHeight">Height</string>
+    <string name="BmiCalculate">Calculate</string>
+    <string name="BmiHistory">History</string>
+    <string name="BmiResult">Your BMI result is:</string>
+    <string name="BmiStatus">Your BMI status is:</string>
+
+    <string name="CalorieCancel">Cancel</string>
+    <string name="CalorieAdd">Add</string>
+
+</resources>
